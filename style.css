@@ -1,0 +1,88 @@
+html,body{
+	background-color:#C35817;
+	height:100%;
+	width:100%;
+}
+
+span.Nume{
+	color:red;
+}
+
+#logoutButton {
+	float:right;
+	margin : 3% 3% 0 0;
+}
+
+#bileteContainer{
+	padding-top :5%;
+    width: 80%;
+	margin: auto;
+}
+div.Searchbar form {
+	width: 30%;
+	margin: 30% auto;
+
+}
+div.header{
+	height: 20%;
+	background-color:white; 
+	 font-family: "Times New Roman", Times, serif;
+}
+div.content{
+	height: 80%;
+	color:black;
+}
+
+div.Bilete div.Bilet {
+	display: inline-block;
+	width: 150px;
+	height:150px;
+	border:3px;
+	border-radius: 35%;
+	margin: 5px;
+	background-color:  #F5DEB3;
+	}
+	
+	div.Bilete div.Bilet {
+		text-align:center;
+	}
+div.menu1{
+	width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 60%;
+    top: 30%;
+}	
+	
+	
+div.Bilete div.Bilet span.Last{
+	font-size: 2em;
+	}
+div.Bilete div.Bilet span.First{
+	font-size: 1.2em;
+}
+div.body1 div.search1 {
+	font-size: 1em;
+	color:black;
+}
+
+
+div.Sponsori div.Sponsor {
+	display: inline-block;
+	width: 20%;
+	border-radius: 5%;
+	margin: 5px;
+	background-color:   #F5DEB3;}
+
+div.Sponsori div.Sponsor  span.Cat{
+	font-size: 2em;
+}
+div.Sponsori div.Sponsor  span.Dif{
+	font-size: 1.2em;
+}
+
+p.titlu{
+	font-size:5em;
+	font-family: "Times New Roman", Times, serif;
+	color:black;
+}
